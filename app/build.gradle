@@ -19,7 +19,7 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-kapt'
 
 android {
-    buildToolsVersion "26.0.1"
+    buildToolsVersion "26.0.2"
     compileSdkVersion 26
 
     dataBinding {
